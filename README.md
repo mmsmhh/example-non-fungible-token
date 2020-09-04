@@ -21,3 +21,5 @@ npm install
 ```
 npm start
 ```
+
+![app image](/public/screen-shot.png)
