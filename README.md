@@ -1,9 +1,23 @@
+# example-non-fungible-token
+
 A minimal application for creating and sharing tokens. You can create a new artwork token and send it to a friend. The screen refreshes every few seconds to show the tokens owned by each user. Build using [Bitcoin|Computer](https://bitcoin-computer.gitbook.io/docs/).
 
-![app image](/public/screen-shot.png)
+### Setting up & Installation Locally
 
-You can find more information in the [docs](https://bitcoin-computer.gitbook.io/docs/). Also check out the corresponding [Youtube tutorial](https://www.youtube.com/watch?v=SnTwevzmRrs).
+1- Clone repository
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=SnTwevzmRrs
-" target="_blank"><img src="http://img.youtube.com/vi/SnTwevzmRrs/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="300" border="10" /></a>
+```
+git clone https://github.com/mmsmhh/example-non-fungible-token.git
+```
+
+2- Install npm packages
+
+```
+npm install
+```
+
+4- Run the project
+
+```
+npm start
+```
